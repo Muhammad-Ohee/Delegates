@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\bin\Debug\net8.0\ExampleFour.exe
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\bin\Debug\net8.0\ExampleFour.deps.json
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\bin\Debug\net8.0\ExampleFour.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\bin\Debug\net8.0\ExampleFour.dll
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\bin\Debug\net8.0\ExampleFour.pdb
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.sourcelink.json
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.dll
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\refint\ExampleFour.dll
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.pdb
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ExampleFour.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Delegates\ExampleFour\ExampleFour\obj\Debug\net8.0\ref\ExampleFour.dll
