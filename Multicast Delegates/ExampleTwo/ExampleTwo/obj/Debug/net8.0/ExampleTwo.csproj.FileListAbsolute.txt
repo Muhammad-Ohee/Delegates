@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\bin\Debug\net8.0\ExampleTwo.exe
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\bin\Debug\net8.0\ExampleTwo.deps.json
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\bin\Debug\net8.0\ExampleTwo.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\bin\Debug\net8.0\ExampleTwo.dll
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\bin\Debug\net8.0\ExampleTwo.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.sourcelink.json
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.dll
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\refint\ExampleTwo.dll
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ExampleTwo.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleTwo\ExampleTwo\obj\Debug\net8.0\ref\ExampleTwo.dll

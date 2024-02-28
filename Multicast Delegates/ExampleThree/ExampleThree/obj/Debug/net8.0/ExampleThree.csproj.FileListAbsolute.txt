@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\bin\Debug\net8.0\ExampleThree.exe
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\bin\Debug\net8.0\ExampleThree.deps.json
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\bin\Debug\net8.0\ExampleThree.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\bin\Debug\net8.0\ExampleThree.dll
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\bin\Debug\net8.0\ExampleThree.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.sourcelink.json
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.dll
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\refint\ExampleThree.dll
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ExampleThree.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Delegates\Multicast Delegates\ExampleThree\ExampleThree\obj\Debug\net8.0\ref\ExampleThree.dll
