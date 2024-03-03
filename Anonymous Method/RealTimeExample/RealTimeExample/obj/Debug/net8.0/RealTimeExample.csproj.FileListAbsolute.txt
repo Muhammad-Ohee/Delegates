@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\bin\Debug\net8.0\RealTimeExample.exe
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\bin\Debug\net8.0\RealTimeExample.deps.json
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\bin\Debug\net8.0\RealTimeExample.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\bin\Debug\net8.0\RealTimeExample.dll
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\bin\Debug\net8.0\RealTimeExample.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.sourcelink.json
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.dll
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\refint\RealTimeExample.dll
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\RealTimeExample.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\RealTimeExample\RealTimeExample\obj\Debug\net8.0\ref\RealTimeExample.dll

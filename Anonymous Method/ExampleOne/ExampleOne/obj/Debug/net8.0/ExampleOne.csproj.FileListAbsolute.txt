@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\bin\Debug\net8.0\ExampleOne.exe
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\bin\Debug\net8.0\ExampleOne.deps.json
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\bin\Debug\net8.0\ExampleOne.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\bin\Debug\net8.0\ExampleOne.dll
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\bin\Debug\net8.0\ExampleOne.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.sourcelink.json
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.dll
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\refint\ExampleOne.dll
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.pdb
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ExampleOne.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Delegates\Anonymous Method\ExampleOne\ExampleOne\obj\Debug\net8.0\ref\ExampleOne.dll
